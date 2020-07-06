@@ -13,7 +13,7 @@ body
     align-items: center;
     min-height: 100vh;
     background: #251801;
-    cursor: url('cursor13.png');
+    cursor: url('cursor13.png'), pointer;
 }
 .container
 {
